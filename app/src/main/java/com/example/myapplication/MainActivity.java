@@ -12,7 +12,7 @@ TextView tv;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
+    tv=findViewById(R.id.tv);
 
 
     }
